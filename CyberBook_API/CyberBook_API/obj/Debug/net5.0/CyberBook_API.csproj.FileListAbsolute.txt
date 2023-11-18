@@ -1,0 +1,70 @@
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\appsettings.Development.json
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\appsettings.json
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\CyberBook_API.exe
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\CyberBook_API.deps.json
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\CyberBook_API.runtimeconfig.json
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\CyberBook_API.runtimeconfig.dev.json
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\CyberBook_API.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\ref\CyberBook_API.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\CyberBook_API.pdb
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.csproj.AssemblyReference.cache
+E:\Project Visual\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Visual\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.AssemblyInfoInputs.cache
+E:\Project Visual\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.AssemblyInfo.cs
+E:\Project Visual\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.csproj.CoreCompileInputs.cache
+E:\Project Visual\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Project Visual\CyberBook_API\CyberBook_API\obj\Debug\net5.0\staticwebassets\CyberBook_API.StaticWebAssets.Manifest.cache
+E:\Project Visual\CyberBook_API\CyberBook_API\obj\Debug\net5.0\staticwebassets\CyberBook_API.StaticWebAssets.xml
+E:\Project Visual\CyberBook_API\CyberBook_API\obj\Debug\net5.0\scopedcss\bundle\CyberBook_API.styles.css
+E:\Project Visual\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.RazorTargetAssemblyInfo.cache
+E:\Project Visual\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.csproj.CopyComplete
+E:\Project Visual\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\obj\Debug\net5.0\ref\CyberBook_API.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.pdb
+E:\Project Visual\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.genruntimeconfig.cache
+E:\Project Visual\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Humanizer.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Project Visual\CyberBook_API\CyberBook_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\booking-cyber-backend-new\CyberBook_API\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.csproj.AssemblyReference.cache
+D:\booking-cyber-backend-new\CyberBook_API\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\booking-cyber-backend-new\CyberBook_API\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.AssemblyInfoInputs.cache
+D:\booking-cyber-backend-new\CyberBook_API\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.AssemblyInfo.cs
+D:\booking-cyber-backend-new\CyberBook_API\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.csproj.CoreCompileInputs.cache
+D:\booking-cyber-backend-new\CyberBook_API\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.MvcApplicationPartsAssemblyInfo.cs
+D:\booking-cyber-backend-new\CyberBook_API\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.MvcApplicationPartsAssemblyInfo.cache
+D:\booking-cyber-backend-new\CyberBook_API\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.dll
+D:\booking-cyber-backend-new\CyberBook_API\CyberBook_API\CyberBook_API\obj\Debug\net5.0\CyberBook_API.pdb
